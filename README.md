@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SphamandlaK
+- 👋 Hi, I’m @Siphuthando
 - 👀 I’m interested in e-commerce projects development
 - 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on ASP.net MVC
